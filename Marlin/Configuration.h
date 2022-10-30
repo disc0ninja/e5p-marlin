@@ -1,3 +1,14 @@
+Recv: PID Autotune finished! Put the last Kp, Ki and Kd constants from below into Configuration.h
+Recv: #define DEFAULT_Kp 30.17
+Recv: #define DEFAULT_Ki 3.83
+Recv: #define DEFAULT_Kd 59.50
+
+BED:
+Recv: PID Autotune finished! Put the last Kp, Ki and Kd constants from below into Configuration.h
+Recv: #define DEFAULT_bedKp 97.11
+Recv: #define DEFAULT_bedKi 9.02
+Recv: #define DEFAULT_bedKd 696.66
+
 /**
  * Marlin 3D Printer Firmware
  * Copyright (c) 2020 MarlinFirmware [https://github.com/MarlinFirmware/Marlin]
